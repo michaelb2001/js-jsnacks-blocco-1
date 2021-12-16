@@ -6,6 +6,7 @@ do{
     myArray[i] = num;
     somma += myArray[i];
     i++;
+    
 }while(somma < 50);
 
 document.writeln(somma);
